@@ -1,10 +1,23 @@
 # A Hierarchical Deep Generative Model for Design Under Free-Form Geometric Uncertainty
 
-Experiment code associated with the paper: "GAN-DUF: Hierarchical Deep Generative Models for Design Under Free-Form Geometric Uncertainty"
+Experiment code associated with our _IDETC 2022_ paper: [GAN-DUF: Hierarchical Deep Generative Models for Design Under Free-Form Geometric Uncertainty](https://arxiv.org/pdf/2112.08919.pdf).
 
-GAN-DUF is short for Generative Adversarial Network-based Design under Uncertainty Framework.
+GAN-DUF is short for __Generative Adversarial Network-based Design under Uncertainty Framework__.
 
 ![Alt text](/architecture.svg)
+
+## License
+This code is licensed under the MIT license. Feel free to use all or portions for your research or related projects so long as you provide the following citation information:
+
+   Chen, W. W., Lee, D., & Chen, W. (2022, August). Hierarchical Deep Generative Models for Design Under Free-Form Geometric Uncertainty. In _ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference (IDETC-CIE)_. American Society of Mechanical Engineers (ASME). (Accepted)
+
+	@inproceedings{chen2022ganduf,
+        title={Hierarchical Deep Generative Models for Design Under Free-Form Geometric Uncertainty},
+        author={Chen, Wayne Wei and Lee, Doksoo and Chen, Wei},
+        booktitle={International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+        year={2022},
+        organization={American Society of Mechanical Engineers}
+      }
 
 ## Usage
 
